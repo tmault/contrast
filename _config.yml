@@ -15,6 +15,7 @@ style:
 navigation:
   - index.html
   - archive.html
+  - products.md
   - about.md
 
 comments:
@@ -22,8 +23,6 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - twitter: "https://twitter.com/twitter/"
-  - github: "https://github.com/niklasbuschmann/contrast"
   - envelope: "mailto:niklas.buschmann@posteo.de"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
