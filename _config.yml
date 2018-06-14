@@ -1,8 +1,8 @@
 title: "London Cycling Review"
-author: "Blog Author"
-description: "Really cool blog about ... something"
-more: "read more »"
-url: "https://niklasbuschmann.github.io/"
+author: "LCR"
+description: "A blog about cycling gear"
+more: "Read more..."
+url: "https://tmault.github.io/contrast/"
 baseurl: "/contrast"
 paginate: 2
 permalink: pretty
@@ -23,6 +23,7 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
+  - rss: "/feed"
   - envelope: "mailto:niklas.buschmann@posteo.de"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
