@@ -8,4 +8,4 @@ fields:
   hidden: false
   default: default
 pages:
-- approved-products.md
+- products.md
