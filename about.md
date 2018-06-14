@@ -1,20 +1,14 @@
 ---
-title: "About"
+title: About
 ---
+## About us
 
-### About Me
+We are a group of London cyclists committed to finding the best gear for bicycle commuting.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our views are heavily influenced by [Just Ride: A Radically Practical Guide to Bikes, Equipment, Health, Safety, and Attitude](https://www.amazon.co.uk/gp/product/0761155589/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0761155589&linkCode=as2&tag=londoncycling-21&linkId=8adc3c4d996102aa1ff9725eb0d0b27c)![](http://ir-uk.amazon-adsystem.com/e/ir?t=londoncycling-21&l=am2&o=2&a=0761155589 =1x1).
 
-### My life
+We think cycle commuting should be about enjoying the fresh air, whilst moving through traffic safely and elegantly. We think you should use high quality, reliable gear to get you where you are going without frustration.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If we had to summarise our philosophy in one sentence – we would point you to this gem from our aforementioned favourite cycling book:
 
- - Dictumst
- - Vestibulum
- - Rhoncus
- - Pellentesque
- 
-Maecenas accumsan lacus vel facilisis volutpat est velit. Arcu bibendum at varius vel. Aliquam etiam erat velit scelerisque in dictum non consectetur a. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc. 
-
-Ultrices dui sapien eget mi proin sed. Dignissim sodales ut eu sem.
+> A bicycle should make your life better, not take it over and boss you around.
