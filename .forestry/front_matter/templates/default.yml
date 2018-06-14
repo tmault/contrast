@@ -8,5 +8,5 @@ fields:
   hidden: false
   default: default
 pages:
-- terms-of-service-and-privacy-policy.md
+- tos.md
 - products.md
