@@ -7,6 +7,6 @@ date: 2018-06-14 19:35:33 +0000
 
 ## Lights
 
-## Orfos
+### Orfos Flare
 
 ## Accessories
