@@ -2,8 +2,8 @@ title: "London Cycling Review"
 author: "LCR"
 description: "A blog about cycling gear"
 more: "Read more..."
-url: "https://tmault.github.io/contrast/"
-baseurl: "/contrast"
+url: "https://londoncyclingreview.co.uk"
+baseurl: ""
 paginate: 2
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
